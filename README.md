@@ -152,8 +152,8 @@ ORDER BY total_customers DESC;
 - **API Development**: RESTful services for data access
 
 ## 📧 Contact
-[Purab Gupta] - [purabgupta988@gmail.com]
-Project Link: [https://github.com/Purab2207/SQL-Data-Warehouse---Business-Analaysis/tree/main]
+[Yuvraj Singh] - [ys62168@gmail.com]
+Project Link: [https://github.com/yuvrajrajput16/SQL-Data-Warehouse---BA/tree/main]
 
 ---
 *This project demonstrates practical application of SQL for business intelligence and data analytics in a real-world scenario.*
